@@ -35,7 +35,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 -->
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -->
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -76,12 +76,16 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-📈 my github stats
+📈 My Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=anilkumarhv&show_icons=true&theme=gotham" alt="anilkumarhv" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=anilkumarhv&show_icons=true&theme=gotham" alt="anilkumarhv" /></p>
+</br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumarhv&layout=compact&theme=radical" alt="Most Used Languages" /></p>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilkumarhv" alt="Github Streak Stats"></p>
   
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumarhv&layout=compact)](https://github.com/anilkumarhv)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumarhv&layout=compact)](https://github.com/anilkumarhv) -->
 
 
 
