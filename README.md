@@ -18,7 +18,7 @@ Hi, I'm Anil Kumar, a passionate self-taught full stack Java developer and a fre
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:anilkumarhv04@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -76,7 +76,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anilkumarhv&show_icons=true&theme=gotham" alt="anilkumarhv" />
+<img src="https://github-readme-stats.vercel.app/api?username=anilkumarhv&show_icons=true&theme=gotham" alt="anilkumarhv" />
+  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumarhv&layout=compact)](https://github.com/anilkumarhv)
 
